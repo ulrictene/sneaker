@@ -77,3 +77,4 @@ Utilize the following design specifications below with the properties above to a
 - Get all the images and text to be in the same row
 
 ![Rows Final Image](/Rows.png)
+note 
